@@ -1,5 +1,5 @@
 # OpenDCF
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OpenDCF/opendcf?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Licence AGPLv3](https://img.shields.io/badge/licence-AGPLv3-brightgreen.svg)](https://raw.githubusercontent.com/OpenDCF/opendcf/master/LICENCE) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OpenDCF/opendcf?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 OpenDCF est outil simple et rapide de création de Devis, Commandes et Factures écrit en PHP et exploitant une base de données MySQL. Ses utilisateurs sont les TPE et les Entreprises individuelles.
