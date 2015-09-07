@@ -19,6 +19,10 @@
 |
 */
 
+if (file_exists("install.php")) {
+    require_once("install.php");
+}
+
 require __DIR__.'/../bootstrap/autoload.php';
 
 /*
